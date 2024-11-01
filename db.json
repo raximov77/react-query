@@ -1,9 +1,46 @@
 {
-    "Students"[
-        {
-            "id":1,
-            "Name":"Raximov",
-            "Surname":"Ikrom"
-        }
-    ]
+  "students": [
+    {
+      "id": "1",
+      "name": "Raximov",
+      "surname": "Ikrom",
+      "age": "20"
+    },
+    {
+      "id": "0718",
+      "name": "sdsc",
+      "surname": "scxs",
+      "age": "cx"
+    },
+    {
+      "id": "bf30",
+      "name": "scscs",
+      "surname": "csc",
+      "age": "c"
+    },
+    {
+      "id": "8308",
+      "name": "scscs",
+      "surname": "csc",
+      "age": "c"
+    },
+    {
+      "id": "6f8e",
+      "name": "scs",
+      "surname": "csc",
+      "age": "scs"
+    },
+    {
+      "id": "0b6e",
+      "name": "112",
+      "surname": "1212",
+      "age": "12"
+    },
+    {
+      "id": "d16b",
+      "name": "qw1212",
+      "surname": "121212",
+      "age": "1212"
+    }
+  ]
 }

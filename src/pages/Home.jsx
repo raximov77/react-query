@@ -6,7 +6,7 @@ import CustomTable from "../components/CostomTable"
 
 
 function Home() {
-
+  const HTTP = import.meta.env.VITE_API
 
   function getAllStudents(){
     return axios.get(`${HTTP}/students`).then(res => (
