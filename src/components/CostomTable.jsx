@@ -4,7 +4,7 @@ import { Table } from "antd";
 const columns = [
     {
         title: 'ID',
-        dataIndex: 'id',
+        dataIndex: 'key',
     },
     {
         title: 'Name',
